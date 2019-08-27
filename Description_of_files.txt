@@ -1,8 +1,0 @@
-ENTiCE_Microbiome_Analysis.R : the code for analysis
-ENTiCE_Mapping_file.txt: mapping file
-otu_table_mc2_w_tax_no_pynast_failures.json.biom: OTU table
-Phylogenetic.fastree: Phylogenetic tree
-Bile_acids_MW.txt: Molecular weight of bile acids
-Clinical_scores.txt: Clinical scores at day 0
-comparison_of_diet_complex_response.txt: Genera with differential abundances in DR and NDR dogs.
-Metabolomics_information.txt: Information of metabolomics
