@@ -15,13 +15,13 @@ These data highlight that remission induced by a hydrolyzed protein diet is asso
 
 > A brief description for each of the files in this repo is included below:
 
-*ENTiCE_Microbiome_Analysis.R* – All R code used for the analyses reported in the paper
-*ENTiCE_Mapping_file.txt* - mapping file
-*otu_table_mc2_w_tax_no_pynast_failures.json.biom* - OTU table
-*Phylogenetic.fastree* - Phylogenetic tree
-*Bile_acids_MW.txt* - Molecular weight of bile acids
-*Clinical_scores.txt* - CCECAI disease severity scores at start of ENTiCE study (day 0)
-*comparison_of_diet_complex_response.txt* - Genera with differential abundances between diet-responsive (DR) and non-diet-responsive (NDR) dogs.
-*Metabolomics_information.txt* - Fecal metabolite data from ENTiCE study (expressed in nmol/g stool)
+- *ENTiCE_Microbiome_Analysis.R* – All R code used for the analyses reported in the paper
+- *ENTiCE_Mapping_file.txt* - mapping file
+- *otu_table_mc2_w_tax_no_pynast_failures.json.biom* - OTU table
+- *Phylogenetic.fastree* - Phylogenetic tree
+- *Bile_acids_MW.txt* - Molecular weight of bile acids
+- *Clinical_scores.txt* - CCECAI disease severity scores at start of ENTiCE study (day 0)
+- *comparison_of_diet_complex_response.txt* - Genera with differential abundances between diet-responsive (DR) and non-diet-responsive (NDR) dogs.
+- *Metabolomics_information.txt* - Fecal metabolite data from ENTiCE study (expressed in nmol/g stool)
 
 ```
