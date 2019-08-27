@@ -1,0 +1,15 @@
+AlphamuricholicAcid	408.579
+BetamuricholicAcid	408.579
+ChenodeoxycholicAcid_primary	392.57
+CholicAcid_primary	408.57
+DeoxycholicAcid	392.572
+GammamuricholicAcid	413.60
+GlycochenodeoxycholicAcid	449.6233
+GlycocholicAcid	465.631
+GlycodeoxycholicAcid	449.6233
+LithocholicAcid	376.5726
+OmegamuricholicAcid	408.579
+TaurochenodeoxycholicAcid	515.706
+TaurocholicAcid	515.7058
+TaurodeoxycholicAcid	498.7 
+TaurolithocholicAcid	483.7042
